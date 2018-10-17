@@ -41,11 +41,11 @@ body {
 	position: fixed;
 	top: 2%;
 	right: 5.5%;
-
 	font-size: 0.85em;
 }
 
 .navbar-brand {
+	color: white;
 	font-family: 'Amaranth';
 	font-size: 1.49em;
 }
@@ -56,6 +56,10 @@ body {
 
 .navbar-brand a:active, a:hover {
 	color: rgb(231, 231, 231);
+}
+
+.nav-link {
+	color: white;
 }
 
 .title {
